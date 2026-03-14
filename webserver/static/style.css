@@ -1,0 +1,16 @@
+:root {
+    --purple: #B3A5CC;
+    --dark_purple: ##9E82D9;
+    --light_purple: ##C2ACF2;
+    --primary_background_color: ##E9EEFF;
+    --primary_text_color: ##CCBAA6;
+}
+
+#testdiv {
+    width: 200px;
+    height: 200px;
+    border-radius: 45px;
+    background: linear-gradient(225deg, #c0b1da, #a195b8);
+    box-shadow: -8px 8px 24px #968bab,
+        8px -8px 24px #d0bfed;
+}
