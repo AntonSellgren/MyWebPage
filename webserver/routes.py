@@ -5,3 +5,4 @@ from flask import abort, render_template, redirect, render_template, request, ur
 @app.route('/home')
 def start():
     return render_template('start.html')
+

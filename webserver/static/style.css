@@ -6,6 +6,19 @@
     --primary_text_color: ##CCBAA6;
 }
 
+body {
+    margin: 0;
+}
+
+#starImageDiv {
+    height: 100px;
+}
+
+#startImage {
+    width: 100vw;
+    height: 100vh;
+}
+
 #testdiv {
     width: 200px;
     height: 200px;
